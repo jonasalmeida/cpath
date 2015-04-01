@@ -1,0 +1,1 @@
+browser client to couchdb coded (via couch 
